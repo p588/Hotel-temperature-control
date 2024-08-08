@@ -5,3 +5,5 @@ Used devices are esp32,breadboard,connecting wires,buzzer and analog temperature
 Used language python
 framework - Streamlit
 
+arduino code help to see the simulation of temperature theshold and saved as code.ino
+
